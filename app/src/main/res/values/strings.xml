@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Compose quadrant</string>
+
+    <!-- Compose Quadrant screen -->
+    <string name="first_title" translatable="false">- Winston Churchill</string>
+    <string name="first_description" translatable="false">Success is not final, failure is not fatal: It is the courage to continue that counts.</string>
+    <string name="second_title" translatable="false">- Albert Schweitzer</string>
+    <string name="second_description" translatable="false">Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</string>
+    <string name="third_title" translatable="false">- Unknown</string>
+    <string name="third_description" translatable="false">Your time is now. Start where you are, with what you have, and never stop.</string>
+    <string name="fourth_title" translatable="false">- Unknown</string>
+    <string name="fourth_description" translatable="false">"Success is not just about making money. It's about making a difference</string>
+
+</resources>
